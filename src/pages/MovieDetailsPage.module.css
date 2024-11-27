@@ -1,0 +1,40 @@
+.container {
+  padding: 20px;
+}
+
+.backLink {
+  display: inline-block;
+  margin-bottom: 20px;
+  color: blue;
+  text-decoration: underline;
+}
+
+.details {
+  display: flex;
+  gap: 20px;
+}
+
+.poster {
+  width: 300px;
+  border-radius: 10px;
+}
+
+.info {
+  max-width: 600px;
+}
+
+.nav {
+  margin-top: 20px;
+  display: flex;
+  gap: 20px;
+}
+
+.link {
+  color: blue;
+  text-decoration: underline;
+}
+
+.activeLink {
+  color: red;
+  font-weight: bold;
+}
